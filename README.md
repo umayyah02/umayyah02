@@ -5,7 +5,7 @@ CS student focused on backend and AI/ML engineering — I like solving problems 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?lines=Computer+Science+Student+%7C+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%7C+Developer" />
 </p>
 
 ---
@@ -53,8 +53,8 @@ Data Structures & Algorithms (C++), backend architecture patterns, and full-stac
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umayyah/Umayyah/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Umayyah/Umayyah/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umayyah02/umayyah02/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/umayyah02/umayyah02/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
