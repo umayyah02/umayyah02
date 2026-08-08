@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Umayyah</h1>
 
 <p align="center">
-CS student focused on backend and AI/ML engineering — I like building things end-to-end, from API to deployment.
+CS student focused on backend and AI/ML engineering — I like solving problems and building things end-to-end, from API to deployment.
 </p>
 
 <p align="center">
@@ -61,5 +61,6 @@ Data Structures & Algorithms (C++), backend architecture patterns, and full-stac
 ---
 
 <p align="center">
-Reach me at: <em>your-email@example.com</em> &nbsp;|&nbsp; <em>linkedin.com/in/your-handle</em>
+  <a href="mailto:umayyahnoor27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/umayyah-noor-067248385/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
