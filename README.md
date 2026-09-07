@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="assets/whoami.svg" alt="01 — whoami" width="100%"/>
+<img src="assets/whoami.svg" alt="01 — about" width="100%"/>
 <img src="assets/stack.svg" alt="02 — stack" width="100%"/>
 <img src="assets/focus.svg" alt="03 — focus" width="100%"/>
 
