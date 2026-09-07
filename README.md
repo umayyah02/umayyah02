@@ -15,10 +15,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umayyah02&show_icons=true&hide_border=true&theme=default&bg_color=00000000&title_color=444444&icon_color=444444&text_color=1a1a1a" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umayyah02&layout=compact&hide_border=true&theme=default&bg_color=00000000&title_color=444444&text_color=1a1a1a" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=umayyah02&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umayyah02&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umayyah02&bg_color=00000000&color=444444&line=444444&point=1a1a1a&area_color=444444&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umayyah02&theme=minimal&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" width="97%"/>
 
 <img src="https://raw.githubusercontent.com/umayyah02/umayyah02/output/github-contribution-grid-snake.svg" width="100%"/>
 
