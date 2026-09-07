@@ -11,14 +11,8 @@
 <img src="assets/whoami.svg" alt="01 — whoami" width="100%"/>
 <img src="assets/stack.svg" alt="02 — stack" width="100%"/>
 <img src="assets/focus.svg" alt="03 — focus" width="100%"/>
-<img src="assets/s-telemetry.svg" alt="04 — telemetry" width="100%"/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=umayyah02&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umayyah02&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umayyah02&theme=minimal&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" width="97%"/>
 
 <img src="https://raw.githubusercontent.com/umayyah02/umayyah02/output/github-contribution-grid-snake.svg" width="100%"/>
 
